@@ -1,0 +1,37 @@
+.btn {
+    padding: 16px 32px;
+}
+
+.FilterBtn {
+    height: 46px;
+    border-radius: 8px;
+    background-color: transparent;
+    padding: 16px 32px;
+    border: 1px solid #F4F5F4;
+}
+
+.FilterBtn:hover {
+    background:#F4F5FE;
+}
+
+.FormBtn {
+    width: 154px;
+    height: 46px;
+    border-radius: 8px;
+    border: none;
+    padding: 16px 32px;
+    background: #4448DA;
+    color: #FFF;
+    font-weight: 500;
+}
+
+.ExitBtn {
+    width: 92px;
+    height: 38px;
+    border-radius: 8px;
+    border: 1px solid #4448DA;
+    padding: 12px 24px;
+    color: #4448DA;
+    font-weight: 500;
+    background-color: transparent;
+}

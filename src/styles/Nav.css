@@ -1,0 +1,15 @@
+.header-nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 56px;
+    margin-left: 439px;
+    gap: 40px;
+
+}
+
+.header-nav-items:hover {
+    text-decoration: underline;
+    color: #4448DA;
+    font-weight: 500;
+}

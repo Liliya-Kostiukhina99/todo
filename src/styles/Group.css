@@ -1,0 +1,11 @@
+.group {
+    display: flex;
+    height: 62px;
+    width: 1145px;
+    margin-bottom: 32px;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Inter; 
+    margin-left: auto;
+    margin-right: auto;
+}

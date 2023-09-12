@@ -1,0 +1,44 @@
+.list {
+    display: flex;
+    width: 1145px;
+    border-radius: 8px;
+    height: 62px;
+    background: #F4F5F4;
+    margin-bottom: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+    justify-content: space-between;
+    align-items: center;
+    color: #1F1F1F;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btnsList {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.delete {
+    border: none;
+    width: 20px;
+    height: 20px;
+    background-image: url('./img/trash.svg');
+    background-color: transparent;
+    opacity: 100%;
+}
+
+.redact {
+    border: none;
+    width: 20px;
+    height: 20px;
+    background-image: url('./img/edit-2.svg');
+    background-color: transparent;
+    opacity: 100%;
+}

@@ -1,0 +1,10 @@
+.filter {
+    display: flex;
+    justify-content: space-between;
+    color: #1F1F1F;  
+    font-size: 14px;    
+    font-style: normal; 
+    font-weight: 500;   
+    line-height: 14px; 
+    gap: 16px;
+}

@@ -1,0 +1,15 @@
+.myInput {
+    width: 254px;
+    height: 46px;
+    border-radius: 8px;
+    border: 1px solid #F4F5F4;
+    color: #1F1F1F;
+    font-weight: 400;
+    padding-left: 16px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+.myInput:active, :hover, :focus {
+    outline: none;
+}
