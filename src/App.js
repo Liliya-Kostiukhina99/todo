@@ -3,6 +3,7 @@ import './styles/App.css';
 import List from './components/List';
 import Group from './components/Group';
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   const [lists, setLists] = useState([
@@ -30,6 +31,7 @@ function App() {
       <Header></Header>
       <Group create={createList}/>
       <List remove={removeList} lists={lists}/>
+      <Footer></Footer>
     </div>
   );
 }
